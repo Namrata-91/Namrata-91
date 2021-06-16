@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Namrata
-- 🌱 I’m currently learning aws
+- 🌱 I’m currently learning aws developer certification
 - 📫 How to reach me linkedin.com/in/namrata-patel-96267b196
 
 <!---
